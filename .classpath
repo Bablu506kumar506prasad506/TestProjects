@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/joda-time-2.9.4-dist/joda-time-2.9.4/joda-time-2.9.4.jar"/>
+	<classpathentry kind="lib" path="E:/joda-time-2.9.4-dist/joda-time-2.9.4/joda-time-2.9.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/joda-time-2.9.4-dist/joda-time-2.9.4/joda-time-2.9.4-no-tzdb.jar"/>
+	<classpathentry kind="lib" path="E:/joda-time-2.9.4-dist/joda-time-2.9.4/joda-time-2.9.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/poi-bin-3.10-FINAL-20140208/JXL/jxl-2.6.9.jar.zip"/>
+	<classpathentry kind="lib" path="E:/selenium-2.53.0/selenium-server-standalone-2.53.1.jar" sourcepath="/mainmethoddata"/>
+	<classpathentry kind="lib" path="E:/selenium-2.53.0/libs/testng-6.9.9.jar" sourcepath="/DataCaptureV01/src/datacapturev01"/>
+	<classpathentry kind="lib" path="E:/selenium-2.53.0/jxl.jar"/>
+	<classpathentry kind="src" path="/com.ask.eDoc"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

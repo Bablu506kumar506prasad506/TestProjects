@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2017-05-29T11:39:54Z" finished-at="2017-05-29T11:39:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2017-05-29T11:39:54Z" finished-at="2017-05-29T11:39:54Z">
+      <class name="TestPackage.tests">
+        <test-method status="PASS" signature="method()[pri:0, instance:TestPackage.tests@43bec5d0]" name="method" duration-ms="0" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="drow()[pri:1, instance:TestPackage.tests@43bec5d0]" name="drow" duration-ms="15" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drow -->
+      </class> <!-- TestPackage.tests -->
+      <class name="TestPackage.rectangle">
+        <test-method status="PASS" signature="method()[pri:0, instance:TestPackage.rectangle@6711b47a]" name="method" duration-ms="16" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="drow()[pri:1, instance:TestPackage.rectangle@6711b47a]" name="drow" duration-ms="15" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drow -->
+      </class> <!-- TestPackage.rectangle -->
+      <class name="TestPackage.Circle">
+        <test-method status="PASS" signature="method()[pri:0, instance:TestPackage.Circle@1cd6758a]" name="method" duration-ms="0" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="drow()[pri:1, instance:TestPackage.Circle@1cd6758a]" name="drow" duration-ms="0" started-at="2017-05-29T17:09:54Z" finished-at="2017-05-29T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drow -->
+      </class> <!-- TestPackage.Circle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
